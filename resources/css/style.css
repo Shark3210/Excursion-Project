@@ -1,0 +1,27 @@
+body{
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+h1{
+  display: block;
+  font-weight: bold;
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+p {
+  color:gray;
+  font-size: 21px;
+  display: block;
+}
+video{
+  object-fit: contain;
+}
+.download {
+color:Aquamarine;
+font-size: 16px;
+}
